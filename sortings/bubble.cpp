@@ -1,4 +1,8 @@
-#include <iostream>  //Checks the 2 consicutive element of the array and swaps them is the first element is greater
+// Bubble sort is a simple sorting method that repeatedly compares adjacent elements in an array and swaps them
+// if they are in the wrong order. This process repeats until the whole array is sorted, 
+// with larger elements "bubbling" to the end after each pass.
+
+#include <iostream>  
 using namespace std;
 
 int main()
@@ -19,4 +23,5 @@ int main()
     {
         cout<<arr[i]<<" ";
     }
+
 }
