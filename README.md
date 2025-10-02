@@ -14,6 +14,7 @@ This repo is designed for people who want to **practice Data Structures & Algori
 - Improve existing solutions
 - Add problem explanations
 - Submit your favorite DSA question & solution
+- Do not commit any binary/executable files i.e. *.class / a.out / a.exe, etc.
 
 ## 📝 Contribution Ideas
 - Add **LeetCode/Codeforces problems**
